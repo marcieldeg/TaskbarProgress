@@ -1,2 +1,2 @@
 # TaskbarProgress
-Show progress in Taskbar app button
+Delphi component to show progress in Taskbar app button
